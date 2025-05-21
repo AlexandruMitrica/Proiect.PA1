@@ -1,5 +1,5 @@
 # 2D Pygame Platformer – PA1 Project
-This project is a 2D game developed in Pygame(PyCharm) by me, Alecandru Mitrica and a colleague Rossella Savin as part of the PA1 laboratory from the Faculty of Automation, Computers and Electronics (FACE) – [http://ace.ucv.ro](http://ace.ucv.ro).
+This project is a 2D game developed in Pygame(PyCharm) by me, Mitrica Alexandru and a colleague Savin Rossella as part of the PA1 laboratory from the Faculty of Automation, Computers and Electronics (ACE) – [http://ace.ucv.ro](http://ace.ucv.ro).
 
 ## 🎮 Game Description
 The game is a simple platformer with the following features:
