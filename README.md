@@ -9,14 +9,13 @@ The game is a simple platformer with the following features:
 - ✅ Player has 3 lives
 - ✅ Level resets on death (from last checkpoint or level end)
 - ✅ Endless level (infinite enemy spawns)
-- ✅ Training level
 - ✅ High score system
 
 ### Planned but not implemented:
 - ❌ Melee combat
 - ❌ Special abilities
 - ❌ NPC quests
-- ❌ Coin system (partially functional)
+- ❌ Coin system 
 
 ## 🔧 Requirements
 - Python 3.x  
