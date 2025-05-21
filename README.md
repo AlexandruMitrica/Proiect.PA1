@@ -29,7 +29,7 @@ This is a video link with gameplay.
 https://youtu.be/mDcctQDR7wY
 
 
-Disclaimer
+Disclaimer:
 This project was developed for educational purposes during the PA1 laboratory within the Faculty of Automation, Computers and Electronics (FACE) at the University of Craiova. It is not intended for commercial use.
 
 
