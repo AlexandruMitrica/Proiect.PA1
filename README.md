@@ -21,12 +21,12 @@ The game is a simple platformer with the following features:
 - Python 3.x  
 - `pygame` library (`pip install pygame`)
 
-
-
+## 🎨 Assets and Design
+- Tilesets and character sprites were downloaded from [itch.io](https://itch.io) and are free for non-commercial use.
+- All game maps were **custom-made** using the Tiled editor.
 
 This is a video link with gameplay.
 https://youtu.be/mDcctQDR7wY
-
 
 Disclaimer:
 This project was developed for educational purposes during the PA1 laboratory within the Faculty of Automation, Computers and Electronics (FACE) at the University of Craiova. It is not intended for commercial use.
